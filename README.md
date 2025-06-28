@@ -4,7 +4,7 @@ Acesta este un proiect realizat în C# cu .NET Framework 4.8 și Windows Forms. 
 
 ## Cuprins
 - [Descriere Generală](#descriere-generală)
-- [Configurare Aplicație](#pași_pentru_configurare)
+- [Configurare Aplicație](#configurare-aplicație)
 - [Tehnologii Folosite](#tehnologii-folosite)
 - [Funcționalități Implementate](#funcționalități-implementate)
 - [Cerințe de Sistem și Configurare](#cerințe-de-sistem-și-configurare)
