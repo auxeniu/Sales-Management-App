@@ -37,7 +37,7 @@ Proiectul acoperă o gamă largă de cerințe tehnice, demonstrând concepte che
 - **Arhitectură pe Niveluri:** O separare clară între interfața utilizator (Formulare), logica de acces la date (Servicii/ManagerDate) și modelul de date (Clase).
 - **Persistența Datelor în Bază de Date:** Toate datele sunt stocate și gestionate într-o bază de date SQL Server.
 - **Operațiuni CRUD Complete:** Implementare completă pentru toate modulele principale.
-- **Sistem de Autentificare și Autorizare:** Utilizatori cu roluri (`Admin`, `Operator`) care au acces diferențiat la funcționalitățile aplicației. Parolele sunt stocate în mod securizat folosind hashing (SHA256).
+- **Sistem de Autentificare și Autorizare:** Utilizatori cu roluri (`Admin`, `Operator`, `Vizitator`) care au acces diferențiat la funcționalitățile aplicației. Parolele sunt stocate în mod securizat folosind hashing (SHA256).
 - **Validarea Datelor:** Validări la nivel de formular (câmpuri obligatorii, formate corecte pentru email/telefon) folosind `ErrorProvider`.
 - **Interfață MDI:** Utilizarea unui formular principal ca MDI container pentru o experiență de lucru organizată.
 - **Controale Custom:** Crearea și utilizarea unui control de utilizator (`LabeledTextBox`) pentru a standardiza câmpurile de input.
