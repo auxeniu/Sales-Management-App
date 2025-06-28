@@ -4,6 +4,7 @@ Acesta este un proiect realizat în C# cu .NET Framework 4.8 și Windows Forms. 
 
 ## Cuprins
 - [Descriere Generală](#descriere-generală)
+- [Configurare Aplicație](#pași_pentru_configurare)
 - [Tehnologii Folosite](#tehnologii-folosite)
 - [Funcționalități Implementate](#funcționalități-implementate)
 - [Cerințe de Sistem și Configurare](#cerințe-de-sistem-și-configurare)
@@ -55,7 +56,7 @@ Pentru a rula acest proiect, aveți nevoie de următoarele:
 2.  **SQL Server:** O instanță de SQL Server. Se recomandă **SQL Server Express LocalDB**, care este de obicei inclus cu Visual Studio.
 3.  **.NET Framework:** Versiunea 4.8 (sau compatibilă).
 
-### Pași pentru Configurare
+## Pași pentru Configurare
 
 1.  **Clonați sau descărcați repository-ul:**
     ```bash
