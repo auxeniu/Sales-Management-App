@@ -1,4 +1,4 @@
-# Proiect Gestiune Vânzări - C# Windows Forms
+# Gestiune Vânzări - C# Windows Forms
 
 Acesta este un proiect realizat în C# cu .NET Framework 4.8 și Windows Forms. Aplicația oferă o soluție completă pentru gestionarea vânzărilor, incluzând module pentru clienți, produse, tranzacții și utilizatori cu roluri.
 
