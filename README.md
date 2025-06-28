@@ -20,7 +20,7 @@ Aplicația "Gestiune Vânzări" este o soluție desktop de tip MDI care permite 
 - **Gestiune Clienți:** Adăugarea, modificarea, ștergerea și vizualizarea clienților.
 - **Gestiune Produse:** Gestionarea catalogului de produse, inclusiv prețuri și stocuri.
 - **Gestiune Tranzacții:** Înregistrarea vânzărilor, adăugarea produselor în coș, actualizarea automată a stocurilor.
-- **Gestiune Utilizatori:** Un sistem administrativ pentru crearea și gestionarea conturilor de utilizator cu roluri (Admin, Operator).
+- **Gestiune Utilizatori:** Un sistem administrativ pentru crearea și gestionarea conturilor de utilizator cu roluri (Admin, Operator, Vizitator).
 - **Rapoarte Vizuale:** Prezentarea grafică a datelor agregate despre vânzări.
 
 ## Tehnologii Folosite
