@@ -60,7 +60,7 @@ Pentru a rula acest proiect, aveți nevoie de următoarele:
 
 1.  **Clonați sau descărcați repository-ul:**
     ```bash
-    git clone https://adresa-ta-de-github.git
+    git clone https://github.com/auxeniu/Sales-Management-App.git
     ```
 
 2.  **Configurarea Bazei de Date:**
