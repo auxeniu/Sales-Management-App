@@ -56,7 +56,7 @@ Pentru a rula acest proiect, aveți nevoie de următoarele:
 2.  **SQL Server:** O instanță de SQL Server. Se recomandă **SQL Server Express LocalDB**, care este de obicei inclus cu Visual Studio.
 3.  **.NET Framework:** Versiunea 4.8 (sau compatibilă).
 
-## Pași pentru Configurare
+## Configurare Aplicație
 
 1.  **Clonați sau descărcați repository-ul:**
     ```bash
