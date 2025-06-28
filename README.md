@@ -10,7 +10,6 @@ Acesta este un proiect, realizat în C# cu .NET Framework 4.8 și Windows Forms.
 - [Ghid de Utilizare](#ghid-de-utilizare)
 - [Structura Proiectului](#structura-proiectului)
 - [Detalii Tehnice de Implementare](#detalii-tehnice-de-implementare)
-- [Contribuitori](#contribuitori)
 
 ## Descriere Generală
 
