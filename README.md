@@ -106,7 +106,6 @@ Pentru a rula acest proiect, aveți nevoie de următoarele:
 
 ## Structura Proiectului
 Proiectul este organizat în următoarele directoare pentru o mentenanță ușoară:
-- **/BazaDate:** Conține scriptul SQL pentru crearea și popularea bazei de date.
 - **/Clase:** Conține clasele model care reprezintă entitățile din aplicație (ex: `Client.cs`, `Utilizator.cs`). Include și excepții custom.
 - **/ControaleUtilizator:** Conține controale custom create pentru proiect (ex: `LabeledTextBox.cs`).
 - **/Formulare:** Conține toate ferestrele aplicației (ex: `FormPrincipal.cs`, `FormLogin.cs`).
